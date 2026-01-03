@@ -1,7 +1,8 @@
-<img src="https://github-readme-stats.vercel.app/api?username=nupigm&show_icons=true&theme=transparent&bg_color=&locale=cn&hide=&rank_icon=github" alt="logo" align="right" width="50%" />
-
+<img src="https://github-readme-stats.blog.cmliussss.com/api?username=nupigm&show_icons=true&theme=transparent&bg_color=&locale=cn&hide=&rank_icon=github" alt="logo" align="right" width="50%" />
 
  Hi there 👋
+
+ 这是我的个人仓库，东西不多。
 
 <!--
 **NUPIGM/nupigm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
